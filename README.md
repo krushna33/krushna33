@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krushna33&label=Profile%20views&color=0e75b6&style=flat" alt="krushna33" /> </p>
 
-- 🌱 I’m currently learning **Supply Chain Management, Optimization**
+- 🌱 I’m currently learning **Industrial Engineering And Operational Research**
 
 - 👯 I’m currently working on mixed integer non-linear optimization problems **Minotaur**
 
